@@ -1,0 +1,23 @@
+html {
+    background-color: black;
+  }
+  h1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+
+  .box {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+  }
+
+  #frog {
+    border: 5px solid white;
+    height: 350px;
+    width: 100%;
+  }
